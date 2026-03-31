@@ -1,6 +1,6 @@
 [
 	{
-		"url": "https://youtu.be/9zePFJjl_6s",
+		"url": "https://youtu.be/Gjwm4od-Upc",
 		"artist_first_name": "Samuel",
 		"artist_last_name": "Barber",
 		"track_name": "Knoxville: Summer of 1915",
@@ -71,6 +71,15 @@
 		"year": 1846
 	},
 	{
+		"url": "https://youtu.be/TrQG-Z5gdfg",
+		"artist_first_name": "Frédéric",
+		"artist_last_name": "Chopin",
+		"track_name": "Piano Sonata no. 2",
+		"performer_first_name": "Sergei",
+		"performer_last_name": "Rachmaninoff",
+		"year": 1840
+	},
+	{
 		"url": "https://youtu.be/6Sv_zPdEaSc",
 		"artist_first_name": "Frédéric",
 		"artist_last_name": "Chopin",
@@ -102,6 +111,15 @@
 		"track_name": "24 Études",
 		"performer_first_name": "Alfred",
 		"performer_last_name": "Cortot"
+	},
+	{
+		"url": "https://youtu.be/eOOIQ5UwI-g",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "Danse sacrée et danse profane",
+		"performer_first_name": "Jean",
+		"performer_last_name": "Martinon",
+		"year": 1904
 	},
 	{
 		"url": "https://youtu.be/45g4nHdTgHM",
@@ -257,6 +275,33 @@
 		"year": 1989
 	},
 	{
+		"url": "https://youtu.be/gFefmXsnzMc",
+		"artist_first_name": "Nikolai",
+		"artist_last_name": "Kapustin",
+		"track_name": "Piano Sonata no. 1",
+		"performer_first_name": "Nikolai",
+		"performer_last_name": "Kapustin",
+		"year": 1984
+	},
+	{
+		"url": "https://youtu.be/1sYaREQ5SwI",
+		"artist_first_name": "Nikolai",
+		"artist_last_name": "Kapustin",
+		"track_name": "Piano Sonata no. 2",
+		"performer_first_name": "Nikolai",
+		"performer_last_name": "Kapustin",
+		"year": 1989
+	},
+	{
+		"url": "https://youtu.be/mcPuh-bIn3A",
+		"artist_first_name": "Nikolai",
+		"artist_last_name": "Kapustin",
+		"track_name": "Trio for Flute, Cello and Piano",
+		"performer_first_name": "Nikolai",
+		"performer_last_name": "Kapustin",
+		"year": 1998
+	},
+	{
 		"url": "https://youtu.be/LuiwjTiGHdE",
 		"artist_first_name": "Franz",
 		"artist_last_name": "Liszt",
@@ -362,6 +407,24 @@
 		"performer_first_name": "Herbert von",
 		"performer_last_name": "Karajan",
 		"year": 1912
+	},
+	{
+		"url": "https://youtu.be/xcte8hM6kYA",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Prokofiev",
+		"track_name": "Piano Concerto no. 2",
+		"performer_first_name": "Sergei",
+		"performer_last_name": "Rachmaninoff",
+		"year": 1913
+	},
+	{
+		"url": "https://youtu.be/oYIpsAZYhxc",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Prokofiev",
+		"track_name": "Piano Concerto no. 3",
+		"performer_first_name": "Sergei",
+		"performer_last_name": "Prokofiev",
+		"year": 1921
 	},
 	{
 		"url": "https://youtu.be/KFTa73nKgmI",

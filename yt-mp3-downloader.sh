@@ -22,5 +22,13 @@ jq -c '.[]' "$music_list_file" | while read music_info; do
 	yt-dlp -t aac "$url" -o "${file_name}.%(ext)s"
 	echo "Downloaded file ${file_name_ext}"
 
-	exiftool -Title="$track_name" -Artist="$artist_first_name $artist_last_name" -Year="$year" -Performer="$performer_first_name $performer_last_name" "$file_name_ext"
+	exiftool \
+		-title="$track_name" \
+		-artist="$artist_first_name $artist_last_name" \
+		-performer="$performer_first_name $performer_last_name" \
+		-year="$year" \
+		"$file_name_ext"
+	echo "Set metadata for ${file_name_ext}"
 done
+
+rm ./*.m4a_original
