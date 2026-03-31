@@ -19,7 +19,7 @@ jq -c '.[]' "$music_list_file" | while read music_info; do
 		continue
 	fi
 
-	yt-dlp -t aac "$url" -o "${file_name}.%(ext)s"
+	yt-dlp --cookies-from-browser firefox -t aac "$url" -o "${file_name}.%(ext)s"
 	echo "Downloaded file ${file_name_ext}"
 
 	exiftool \

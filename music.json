@@ -26,6 +26,15 @@
 		"performer_last_name": "Kempff"
 	},
 	{
+		"url": "https://youtu.be/P0GzNmf_AUw",
+		"artist_first_name": "Alban",
+		"artist_last_name": "Berg",
+		"track_name": "Violin Concerto",
+		"performer_first_name": "Itzhak",
+		"performer_last_name": "Perlman",
+		"year": 1935
+	},
+	{
 		"url": "https://youtu.be/wxB5vkZy7nM",
 		"artist_first_name": "Johannes",
 		"artist_last_name": "Brahms",
@@ -257,6 +266,24 @@
 		"year": 1919
 	},
 	{
+		"url": "https://youtu.be/x2VNVH0PnTY",
+		"artist_first_name": "Gustav",
+		"artist_last_name": "Holst",
+		"track_name": "The Hymn of Jesus",
+		"performer_first_name": "Charles",
+		"performer_last_name": "Groves",
+		"year": 1917
+	},
+	{
+		"url": "https://youtu.be/5NKDTsBpdqY",
+		"artist_first_name": "Gustav",
+		"artist_last_name": "Holst",
+		"track_name": "Egdon Heath",
+		"performer_first_name": "Andrew",
+		"performer_last_name": "Davis",
+		"year": 1927
+	},
+	{
 		"url": "https://youtu.be/6jNEeJo16R0",
 		"artist_first_name": "Nikolai",
 		"artist_last_name": "Kapustin",
@@ -382,7 +409,7 @@
 		"year": 1905
 	},
 	{
-		"url": "https://youtu.be/F2y5Ntys6gU",
+		"url": "https://youtu.be/k95vAIRYlpI",
 		"artist_first_name": "Gustav",
 		"artist_last_name": "Mahler",
 		"track_name": "Symphony no. 8",
@@ -406,7 +433,52 @@
 		"track_name": "Symphony no. 9",
 		"performer_first_name": "Herbert von",
 		"performer_last_name": "Karajan",
-		"year": 1912
+		"year": 1910
+	},
+	{
+		"url": "https://youtu.be/HAnXTHUU4ks",
+		"artist_first_name": "Gustav",
+		"artist_last_name": "Mahler",
+		"track_name": "Symphony no. 10 (Adagio)",
+		"performer_first_name": "Michael",
+		"performer_last_name": "Gielen",
+		"year": 1910
+	},
+	{
+		"url": "https://youtu.be/OJNaKMgvXRA",
+		"artist_first_name": "Gustav",
+		"artist_last_name": "Mahler",
+		"track_name": "Rückert-Lieder",
+		"performer_first_name": "Herbert von",
+		"performer_last_name": "Karajan",
+		"year": 1902
+	},
+	{
+		"url": "https://youtu.be/9edKNmyiLBc",
+		"artist_first_name": "Gustav",
+		"artist_last_name": "Mahler",
+		"track_name": "Kindertotenlieder",
+		"performer_first_name": "Herbert von",
+		"performer_last_name": "Karajan",
+		"year": 1904
+	},
+	{
+		"url": "https://youtu.be/9edKNmyiLBc",
+		"artist_first_name": "Olivier",
+		"artist_last_name": "Messiaen",
+		"track_name": "Des canyons aux étoiles...",
+		"performer_first_name": "Jean-Jacques",
+		"performer_last_name": "Justafré",
+		"year": 1974
+	},
+	{
+		"url": "https://youtu.be/SBFOwHLYj70",
+		"artist_first_name": "Olivier",
+		"artist_last_name": "Messiaen",
+		"track_name": "Quatuor pour la fin du temps",
+		"performer_first_name": "Matthew",
+		"performer_last_name": "Schellhorn",
+		"year": 1941
 	},
 	{
 		"url": "https://youtu.be/xcte8hM6kYA",
@@ -461,6 +533,15 @@
 		"performer_first_name": "Herbert von",
 		"performer_last_name": "Karajan",
 		"year": 1924
+	},
+	{
+		"url": "https://youtu.be/xcEA6XZHBlo",
+		"artist_first_name": "Jean",
+		"artist_last_name": "Sibelius",
+		"track_name": "Finlandia",
+		"performer_first_name": "Herbert von",
+		"performer_last_name": "Karajan",
+		"year": 1900
 	},
 	{
 		"url": "https://youtu.be/X74jHkUZRFw",
@@ -650,6 +731,15 @@
 		"performer_first_name": "Jean",
 		"performer_last_name": "Martinon",
 		"year": 1911
+	},
+	{
+		"url": "https://youtu.be/paZ7LXd_wKM",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Shéhérazade",
+		"performer_first_name": "Pierre",
+		"performer_last_name": "Boulez",
+		"year": 1903
 	},
 	{
 		"url": "https://youtu.be/qlFNIZOEHJ4",
