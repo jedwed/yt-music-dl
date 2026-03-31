@@ -1,0 +1,762 @@
+[
+	{
+		"url": "https://youtu.be/9zePFJjl_6s",
+		"artist_first_name": "Samuel",
+		"artist_last_name": "Barber",
+		"track_name": "Knoxville: Summer of 1915",
+		"performer_first_name": "Dawn",
+		"performer_last_name": "Upshaw",
+		"year": 1947
+	},
+	{
+		"url": "https://youtu.be/9zePFJjl_6s",
+		"artist_first_name": "Ludwig van",
+		"artist_last_name": "Beethoven",
+		"track_name": "Symphony no. 9",
+		"performer_first_name": "Ferenc",
+		"performer_last_name": "Fricsay",
+		"year": 1824
+	},
+	{
+		"url": "https://youtu.be/lML14o7C6r8",
+		"artist_first_name": "Ludwig van",
+		"artist_last_name": "Beethoven",
+		"track_name": "32 Piano Sonatas",
+		"performer_first_name": "Wilhelm",
+		"performer_last_name": "Kempff"
+	},
+	{
+		"url": "https://youtu.be/wxB5vkZy7nM",
+		"artist_first_name": "Johannes",
+		"artist_last_name": "Brahms",
+		"track_name": "Symphony no. 4",
+		"performer_first_name": "Carlos",
+		"performer_last_name": "Kleiber",
+		"year": 1884
+	},
+	{
+		"url": "https://youtu.be/KkfgFuCUe8w",
+		"artist_first_name": "Johannes",
+		"artist_last_name": "Brahms",
+		"track_name": "Violin Concerto",
+		"performer_first_name": "David",
+		"performer_last_name": "Oistrakh",
+		"year": 1878
+	},
+	{
+		"url": "https://youtu.be/fEVr3lzNKpE",
+		"artist_first_name": "Johannes",
+		"artist_last_name": "Brahms",
+		"track_name": "Piano Concerto no. 1",
+		"performer_first_name": "Radu",
+		"performer_last_name": "Lupu",
+		"year": 1858
+	},
+	{
+		"url": "https://youtu.be/x9TlSOeFU1Q",
+		"artist_first_name": "Johannes",
+		"artist_last_name": "Brahms",
+		"track_name": "Piano Concerto no. 2",
+		"performer_first_name": "Emil",
+		"performer_last_name": "Gilels",
+		"year": 1881
+	},
+	{
+		"url": "https://youtu.be/3aAmxwai3W4",
+		"artist_first_name": "Frédéric",
+		"artist_last_name": "Chopin",
+		"track_name": "Polonaise-fantaisie",
+		"performer_first_name": "Arthur",
+		"performer_last_name": "Rubinstein",
+		"year": 1846
+	},
+	{
+		"url": "https://youtu.be/6Sv_zPdEaSc",
+		"artist_first_name": "Frédéric",
+		"artist_last_name": "Chopin",
+		"track_name": "Piano Sonata no. 3",
+		"performer_first_name": "Dinu",
+		"performer_last_name": "Lipatti",
+		"year": 1844
+	},
+	{
+		"url": "https://youtu.be/wuL7UC2glJM",
+		"artist_first_name": "Frédéric",
+		"artist_last_name": "Chopin",
+		"track_name": "19 Nocturnes",
+		"performer_first_name": "Arthur",
+		"performer_last_name": "Rubinstein"
+	},
+	{
+		"url": "https://youtu.be/iKumXTfSFRw",
+		"artist_first_name": "Frédéric",
+		"artist_last_name": "Chopin",
+		"track_name": "4 Ballades",
+		"performer_first_name": "Alfred",
+		"performer_last_name": "Cortot"
+	},
+	{
+		"url": "https://youtu.be/zT8M6oyuYZk",
+		"artist_first_name": "Frédéric",
+		"artist_last_name": "Chopin",
+		"track_name": "24 Études",
+		"performer_first_name": "Alfred",
+		"performer_last_name": "Cortot"
+	},
+	{
+		"url": "https://youtu.be/45g4nHdTgHM",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "Nocturnes",
+		"performer_first_name": "Jean",
+		"performer_last_name": "Martinon",
+		"year": 1881
+	},
+	{
+		"url": "https://youtu.be/efaj4L3KiYU",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "Images pour orchestre",
+		"performer_first_name": "Jean",
+		"performer_last_name": "Martinon",
+		"year": 1889
+	},
+	{
+		"url": "https://youtu.be/ocwzBaYWVG8",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "La Mer",
+		"performer_first_name": "Jean",
+		"performer_last_name": "Martinon",
+		"year": 1905
+	},
+	{
+		"url": "https://youtu.be/iW4s92u0hQw",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "Prélude à l'après-midi d'un faune",
+		"performer_first_name": "Pierre",
+		"performer_last_name": "Monteux",
+		"year": 1894
+	},
+	{
+		"url": "https://youtu.be/0orFdaxQGeY",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "String Quartet in G Minor",
+		"performer_first_name": "",
+		"performer_last_name": "Budapest String Quartet",
+		"year": 1893
+	},
+	{
+		"url": "https://youtu.be/L9c31_Uuz5k",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "Suite bergamasque",
+		"performer_first_name": "Walter",
+		"performer_last_name": "Gieseking",
+		"year": 1905
+	},
+	{
+		"url": "https://youtu.be/MWkxPtFS10I",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "The Complete Préludes",
+		"performer_first_name": "Walter",
+		"performer_last_name": "Gieseking",
+		"year": 1912
+	},
+	{
+		"url": "https://youtu.be/H46sm5zzZdM",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "Estampes",
+		"performer_first_name": "Walter",
+		"performer_last_name": "Gieseking",
+		"year": 1903
+	},
+	{
+		"url": "https://youtu.be/Vwm7vZsCsn4",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "Children's Corner",
+		"performer_first_name": "Walter",
+		"performer_last_name": "Gieseking",
+		"year": 1908
+	},
+	{
+		"url": "https://youtu.be/SOHama2AY0Q",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "Images",
+		"performer_first_name": "Arturo Benedetti",
+		"performer_last_name": "Michelangeli",
+		"year": 1907
+	},
+	{
+		"url": "https://youtu.be/XVeUfk2O4QM",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "Pour le piano",
+		"performer_first_name": "Walter",
+		"performer_last_name": "Gieseking",
+		"year": 1901
+	},
+	{
+		"url": "https://youtu.be/3ffIhrESE3c",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "Rêverie",
+		"performer_first_name": "Monique",
+		"performer_last_name": "Haas",
+		"year": 1890
+	},
+	{
+		"url": "https://youtu.be/5PjlQDiJRxY",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "2 Arabesques",
+		"performer_first_name": "Jean-Efflam",
+		"performer_last_name": "Bavouzet",
+		"year": 1891
+	},
+	{
+		"url": "https://youtu.be/5PjlQDiJRxY",
+		"artist_first_name": "Gustav",
+		"artist_last_name": "Holst",
+		"track_name": "The Planets",
+		"performer_first_name": "Adrian",
+		"performer_last_name": "Boult",
+		"year": 1916
+	},
+	{
+		"url": "https://youtu.be/mIGVzhTV8-8",
+		"artist_first_name": "Gustav",
+		"artist_last_name": "Holst",
+		"track_name": "Ode to Death",
+		"performer_first_name": "Richard",
+		"performer_last_name": "Hickox",
+		"year": 1919
+	},
+	{
+		"url": "https://youtu.be/6jNEeJo16R0",
+		"artist_first_name": "Nikolai",
+		"artist_last_name": "Kapustin",
+		"track_name": "Piano Concerto no. 2",
+		"performer_first_name": "Nikolai",
+		"performer_last_name": "Kapustin",
+		"year": 1974
+	},
+	{
+		"url": "https://youtu.be/dne2KSqLBnw",
+		"artist_first_name": "Nikolai",
+		"artist_last_name": "Kapustin",
+		"track_name": "Piano Concerto no. 4",
+		"performer_first_name": "Frank",
+		"performer_last_name": "Dupree",
+		"year": 1989
+	},
+	{
+		"url": "https://youtu.be/LuiwjTiGHdE",
+		"artist_first_name": "Franz",
+		"artist_last_name": "Liszt",
+		"track_name": "Années de Pèlerinage",
+		"performer_first_name": "Lazar",
+		"performer_last_name": "Berman"
+	},
+	{
+		"url": "https://youtu.be/jN_corqaqgY",
+		"artist_first_name": "Franz",
+		"artist_last_name": "Liszt",
+		"track_name": "Bénédiction de Dieu dans la solitude",
+		"performer_first_name": "Claudio",
+		"performer_last_name": "Arrau",
+		"year": 1847
+	},
+	{
+		"url": "https://youtu.be/nRgwYrkRsPc",
+		"artist_first_name": "Gustav",
+		"artist_last_name": "Mahler",
+		"track_name": "Symphony no. 1",
+		"performer_first_name": "Bruno",
+		"performer_last_name": "Walter",
+		"year": 1888
+	},
+	{
+		"url": "https://youtu.be/tb1KISFyx7c",
+		"artist_first_name": "Gustav",
+		"artist_last_name": "Mahler",
+		"track_name": "Symphony no. 2",
+		"performer_first_name": "Bruno",
+		"performer_last_name": "Walter",
+		"year": 1894
+	},
+	{
+		"url": "https://youtu.be/jVT94orN01o",
+		"artist_first_name": "Gustav",
+		"artist_last_name": "Mahler",
+		"track_name": "Symphony no. 3",
+		"performer_first_name": "Riccardo",
+		"performer_last_name": "Chailly",
+		"year": 1896
+	},
+	{
+		"url": "https://youtu.be/xAkrnXNrvKA",
+		"artist_first_name": "Gustav",
+		"artist_last_name": "Mahler",
+		"track_name": "Symphony no. 4",
+		"performer_first_name": "Leonard",
+		"performer_last_name": "Bernstein",
+		"year": 1900
+	},
+	{
+		"url": "https://youtu.be/HsclK5ytvAg",
+		"artist_first_name": "Gustav",
+		"artist_last_name": "Mahler",
+		"track_name": "Symphony no. 5",
+		"performer_first_name": "Herbert von",
+		"performer_last_name": "Karajan",
+		"year": 1902
+	},
+	{
+		"url": "https://youtu.be/F2y5Ntys6gU",
+		"artist_first_name": "Gustav",
+		"artist_last_name": "Mahler",
+		"track_name": "Symphony no. 6",
+		"performer_first_name": "Leonard",
+		"performer_last_name": "Bernstein",
+		"year": 1904
+	},
+	{
+		"url": "https://youtu.be/QSNu5Zh8wOE",
+		"artist_first_name": "Gustav",
+		"artist_last_name": "Mahler",
+		"track_name": "Symphony no. 7",
+		"performer_first_name": "Leonard",
+		"performer_last_name": "Bernstein",
+		"year": 1905
+	},
+	{
+		"url": "https://youtu.be/F2y5Ntys6gU",
+		"artist_first_name": "Gustav",
+		"artist_last_name": "Mahler",
+		"track_name": "Symphony no. 8",
+		"performer_first_name": "Antoni",
+		"performer_last_name": "Wit",
+		"year": 1906
+	},
+	{
+		"url": "https://youtu.be/DQ7FW4fly9Y",
+		"artist_first_name": "Gustav",
+		"artist_last_name": "Mahler",
+		"track_name": "Das Lied von der Erde",
+		"performer_first_name": "Otto",
+		"performer_last_name": "Klemperer",
+		"year": 1909
+	},
+	{
+		"url": "https://youtu.be/jKK9N0BPqdo",
+		"artist_first_name": "Gustav",
+		"artist_last_name": "Mahler",
+		"track_name": "Symphony no. 9",
+		"performer_first_name": "Herbert von",
+		"performer_last_name": "Karajan",
+		"year": 1912
+	},
+	{
+		"url": "https://youtu.be/KFTa73nKgmI",
+		"artist_first_name": "Jean",
+		"artist_last_name": "Sibelius",
+		"track_name": "Symphony no. 2",
+		"performer_first_name": "George",
+		"performer_last_name": "Szell",
+		"year": 1902
+	},
+	{
+		"url": "https://youtu.be/-AXqZHYjNkg",
+		"artist_first_name": "Jean",
+		"artist_last_name": "Sibelius",
+		"track_name": "Symphony no. 5",
+		"performer_first_name": "Leif",
+		"performer_last_name": "Segerstam",
+		"year": 1915
+	},
+	{
+		"url": "https://youtu.be/FChg3ERp6C8",
+		"artist_first_name": "Jean",
+		"artist_last_name": "Sibelius",
+		"track_name": "Symphony no. 6",
+		"performer_first_name": "Herbert von",
+		"performer_last_name": "Karajan",
+		"year": 1923
+	},
+	{
+		"url": "https://youtu.be/XHHfvdAqvn8",
+		"artist_first_name": "Jean",
+		"artist_last_name": "Sibelius",
+		"track_name": "Symphony no. 7",
+		"performer_first_name": "Herbert von",
+		"performer_last_name": "Karajan",
+		"year": 1924
+	},
+	{
+		"url": "https://youtu.be/X74jHkUZRFw",
+		"artist_first_name": "Jean",
+		"artist_last_name": "Sibelius",
+		"track_name": "Violin Concerto",
+		"performer_first_name": "David",
+		"performer_last_name": "Oistrakh",
+		"year": 1904
+	},
+	{
+		"url": "https://youtu.be/zpo64avx57g",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Rachmaninoff",
+		"track_name": "Symphony no. 1",
+		"performer_first_name": "Eugene",
+		"performer_last_name": "Ormandy",
+		"year": 1895
+	},
+	{
+		"url": "https://youtu.be/2RyGN09FEUo",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Rachmaninoff",
+		"track_name": "Symphony no. 2",
+		"performer_first_name": "Iván",
+		"performer_last_name": "Fischer",
+		"year": 1907
+	},
+	{
+		"url": "https://youtu.be/qQKnFtPA5ss",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Rachmaninoff",
+		"track_name": "Symphony no. 3",
+		"performer_first_name": "Eugene",
+		"performer_last_name": "Ormandy",
+		"year": 1936
+	},
+	{
+		"url": "https://youtu.be/VJQ7sztpe0A",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Rachmaninoff",
+		"track_name": "The Bells",
+		"performer_first_name": "Kirill",
+		"performer_last_name": "Kondrashin",
+		"year": 1913
+	},
+	{
+		"url": "https://youtu.be/F3MekBxEjg4",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Rachmaninoff",
+		"track_name": "Symphonic Dances",
+		"performer_first_name": "Kirill",
+		"performer_last_name": "Kondrashin",
+		"year": 1940
+	},
+	{
+		"url": "https://youtu.be/CxqR757TQG8",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Rachmaninoff",
+		"track_name": "Piano Concerto no. 1",
+		"performer_first_name": "Howard",
+		"performer_last_name": "Shelly",
+		"year": 1891
+	},
+	{
+		"url": "https://youtu.be/YHtfVi4T1sQ",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Rachmaninoff",
+		"track_name": "Piano Concerto no. 2",
+		"performer_first_name": "Sergei",
+		"performer_last_name": "Rachmaninoff",
+		"year": 1901
+	},
+	{
+		"url": "https://youtu.be/EPM6bEBerRo",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Rachmaninoff",
+		"track_name": "Piano Concerto no. 3",
+		"performer_first_name": "Sergei",
+		"performer_last_name": "Rachmaninoff",
+		"year": 1909
+	},
+	{
+		"url": "https://youtu.be/5x_mxkiVFfM",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Rachmaninoff",
+		"track_name": "Piano Concerto no. 4",
+		"performer_first_name": "Sergei",
+		"performer_last_name": "Rachmaninoff",
+		"year": 1926
+	},
+	{
+		"url": "https://youtu.be/UdJ2kMi0mJU",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Rachmaninoff",
+		"track_name": "Rhapsody on a Theme of Paganini",
+		"performer_first_name": "Sergei",
+		"performer_last_name": "Rachmaninoff",
+		"year": 1934
+	},
+	{
+		"url": "https://youtu.be/YrXMpfwnbQ4",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Rachmaninoff",
+		"track_name": "Cello Sonata in G Minor",
+		"performer_first_name": "Natalia",
+		"performer_last_name": "Gutman",
+		"year": 1901
+	},
+	{
+		"url": "https://youtu.be/gGmILVnE_dg",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Rachmaninoff",
+		"track_name": "Liebesleid",
+		"performer_first_name": "Sergei",
+		"performer_last_name": "Rachmaninoff",
+		"year": 1921
+	},
+	{
+		"url": "https://youtu.be/2a42_Lrwxjk",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Rachmaninoff",
+		"track_name": "Piano Sonata no. 1",
+		"performer_first_name": "Nikolai",
+		"performer_last_name": "Lugansky",
+		"year": 1908
+	},
+	{
+		"url": "https://youtu.be/ES6AzoKpG1k",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Rachmaninoff",
+		"track_name": "Piano Sonata no. 2",
+		"performer_first_name": "Zoltan",
+		"performer_last_name": "Kocsis",
+		"year": 1913
+	},
+	{
+		"url": "https://youtu.be/Hj84l05xWg0",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Rachmaninoff",
+		"track_name": "10 Preludes, op. 23",
+		"performer_first_name": "Nikolai",
+		"performer_last_name": "Lugansky",
+		"year": 1903
+	},
+	{
+		"url": "https://youtu.be/FMIavn2LDfg",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Rachmaninoff",
+		"track_name": "13 Preludes, op. 32",
+		"performer_first_name": "Nikolai",
+		"performer_last_name": "Lugansky",
+		"year": 1910
+	},
+	{
+		"url": "https://youtu.be/FMIavn2LDfg",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Rachmaninoff",
+		"track_name": "Études-Tableaux Op. 33",
+		"performer_first_name": "Vladimir",
+		"performer_last_name": "Ovchinnikov",
+		"year": 1911
+	},
+	{
+		"url": "https://youtu.be/8L6CxUpBZlY",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Rachmaninoff",
+		"track_name": "Études-Tableaux Op. 39",
+		"performer_first_name": "Nikolai",
+		"performer_last_name": "Lugansky",
+		"year": 1917
+	},
+	{
+		"url": "https://youtu.be/iA-ObbVRX4w",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Daphnis et Chloé and others",
+		"performer_first_name": "Pierre",
+		"performer_last_name": "Monteux",
+		"year": 1912
+	},
+	{
+		"url": "https://youtu.be/sV1wCZ_RRIY",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Ma mère l'Oye",
+		"performer_first_name": "Jean",
+		"performer_last_name": "Martinon",
+		"year": 1911
+	},
+	{
+		"url": "https://youtu.be/qlFNIZOEHJ4",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "String Quartet in F Major",
+		"performer_first_name": "",
+		"performer_last_name": "Budapest String Quartet",
+		"year": 1903
+	},
+	{
+		"url": "https://youtu.be/UPdsPhSQy58",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "3 Poèmes de Stéphane Mallarmé",
+		"performer_first_name": "Anne Sophie von",
+		"performer_last_name": "Otter",
+		"year": 1913
+	},
+	{
+		"url": "https://youtu.be/bBm1w8J63mg",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Introduction et allegro pour harpe, flûte, clarinette et quatuor à cordes",
+		"performer_first_name": "Skalia",
+		"performer_last_name": "Kanga",
+		"year": 1905
+	},
+	{
+		"url": "https://youtu.be/23RXq6MFLY8",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "L'enfant et les Sortilèges",
+		"performer_first_name": "Mikko",
+		"performer_last_name": "Franck",
+		"year": 1925
+	},
+	{
+		"url": "https://youtu.be/76v6MME665E",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "L'heure espagnole",
+		"performer_first_name": "Leonard",
+		"performer_last_name": "Slatkin",
+		"year": 1911
+	},
+	{
+		"url": "https://youtu.be/6Sxpi0zybzA",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Piano Concerto for the Left Hand",
+		"performer_first_name": "Samson",
+		"performer_last_name": "François",
+		"year": 1930
+	},
+	{
+		"url": "https://youtu.be/YXcdoLVkVL4",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Piano Concerto in G Major",
+		"performer_first_name": "Samson",
+		"performer_last_name": "François",
+		"year": 1931
+	},
+	{
+		"url": "https://youtu.be/YXcdoLVkVL4",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Violin Sonata no. 2",
+		"performer_first_name": "Renaud",
+		"performer_last_name": "Capuçon",
+		"year": 1927
+	},
+	{
+		"url": "https://youtu.be/A67xPzJ_z5E",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Piano Trio",
+		"performer_first_name": "Vlado",
+		"performer_last_name": "Perlemuter",
+		"year": 1914
+	},
+	{
+		"url": "https://youtu.be/nQWY4aBIS58",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Le Tombeau de Couperin",
+		"performer_first_name": "Vlado",
+		"performer_last_name": "Perlemuter",
+		"year": 1917
+	},
+	{
+		"url": "https://youtu.be/vF2QSx25DLQ",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Miroirs",
+		"performer_first_name": "Vlado",
+		"performer_last_name": "Perlemuter",
+		"year": 1905
+	},
+	{
+		"url": "https://youtu.be/Qw0n2ljzATU",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Gaspard de la Nuit",
+		"performer_first_name": "Vlado",
+		"performer_last_name": "Perlemuter",
+		"year": 1908
+	},
+	{
+		"url": "https://youtu.be/CY9yQogbhN4",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Sonatine",
+		"performer_first_name": "Vlado",
+		"performer_last_name": "Perlemuter",
+		"year": 1905
+	},
+	{
+		"url": "https://youtu.be/yE5i5cs0h-U",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Valses nobles et sentimentales",
+		"performer_first_name": "Vlado",
+		"performer_last_name": "Perlemuter",
+		"year": 1911
+	},
+	{
+		"url": "https://youtu.be/zFJGW4FQkyQ",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Jeux d'eau",
+		"performer_first_name": "Vlado",
+		"performer_last_name": "Perlemuter",
+		"year": 1901
+	},
+	{
+		"url": "https://youtu.be/Ps7246vDF2g",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Pavane pour une infante défunte",
+		"performer_first_name": "Vlado",
+		"performer_last_name": "Perlemuter",
+		"year": 1899
+	},
+	{
+		"url": "https://youtu.be/Ad-vv9H4RsY",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Menuet sur le nom d'Haydn",
+		"performer_first_name": "Vlado",
+		"performer_last_name": "Perlemuter",
+		"year": 1909
+	},
+	{
+		"url": "https://youtu.be/czAVhmKmDS8",
+		"artist_first_name": "Pyotr Ilyich",
+		"artist_last_name": "Tchaikovsky",
+		"track_name": "Symphony no. 6",
+		"performer_first_name": "Evgeny",
+		"performer_last_name": "Mravinsky",
+		"year": 1893
+	},
+	{
+		"url": "https://youtu.be/76gAxsT4_5I",
+		"artist_first_name": "Ralph",
+		"artist_last_name": "Vaughan Williams",
+		"track_name": "Symphony no. 5",
+		"performer_first_name": "André",
+		"performer_last_name": "Previn",
+		"year": 1943
+	}
+]
