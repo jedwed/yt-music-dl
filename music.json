@@ -18,6 +18,15 @@
 		"year": 1824
 	},
 	{
+		"url": "https://youtu.be/4FxT-llXZfI",
+		"artist_first_name": "Ludwig van",
+		"artist_last_name": "Beethoven",
+		"track_name": "Piano Concerto no. 4",
+		"performer_first_name": "Paul",
+		"performer_last_name": "Lewis",
+		"year": 1806
+	},
+	{
 		"url": "https://youtu.be/lML14o7C6r8",
 		"artist_first_name": "Ludwig van",
 		"artist_last_name": "Beethoven",
@@ -98,10 +107,35 @@
 		"year": 1844
 	},
 	{
+		"url": "https://youtu.be/3e22O1PUJyw",
+		"artist_first_name": "Frédéric",
+		"artist_last_name": "Chopin",
+		"track_name": "Preludes",
+		"performer_first_name": "Alfred",
+		"performer_last_name": "Cortot",
+		"year": 1839
+	},
+	{
 		"url": "https://youtu.be/wuL7UC2glJM",
 		"artist_first_name": "Frédéric",
 		"artist_last_name": "Chopin",
 		"track_name": "19 Nocturnes",
+		"performer_first_name": "Arthur",
+		"performer_last_name": "Rubinstein"
+	},
+	{
+		"url": "https://youtu.be/9ZCxO9lPMUs",
+		"artist_first_name": "Frédéric",
+		"artist_last_name": "Chopin",
+		"track_name": "14 Waltzes",
+		"performer_first_name": "Alfred",
+		"performer_last_name": "Cortot"
+	},
+	{
+		"url": "https://youtu.be/HQ092gZHB54",
+		"artist_first_name": "Frédéric",
+		"artist_last_name": "Chopin",
+		"track_name": "51 Mazurkas",
 		"performer_first_name": "Arthur",
 		"performer_last_name": "Rubinstein"
 	},
@@ -192,6 +226,15 @@
 		"performer_first_name": "Walter",
 		"performer_last_name": "Gieseking",
 		"year": 1912
+	},
+	{
+		"url": "https://youtu.be/R9jplvJu-aM",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "Études",
+		"performer_first_name": "Jean-Efflam",
+		"performer_last_name": "Bavouzet",
+		"year": 1915
 	},
 	{
 		"url": "https://youtu.be/H46sm5zzZdM",
@@ -911,5 +954,50 @@
 		"performer_first_name": "André",
 		"performer_last_name": "Previn",
 		"year": 1943
+	},
+	{
+		"url": "https://youtu.be/H-jBfY3iGo0",
+		"artist_first_name": "Ralph",
+		"artist_last_name": "Vaughan Williams",
+		"track_name": "Sinfonia Antarctica (Symphony no. 7)",
+		"performer_first_name": "Leonard",
+		"performer_last_name": "Slatkin",
+		"year": 1952
+	},
+	{
+		"url": "https://youtu.be/3P0TaRKQPbE",
+		"artist_first_name": "Ralph",
+		"artist_last_name": "Vaughan Williams",
+		"track_name": "Oboe Concerto",
+		"performer_first_name": "Robin",
+		"performer_last_name": "Canter",
+		"year": 1944
+	},
+	{
+		"url": "https://youtu.be/EdbyFka7pjA",
+		"artist_first_name": "Ralph",
+		"artist_last_name": "Vaughan Williams",
+		"track_name": "Piano",
+		"performer_first_name": "Ashley",
+		"performer_last_name": "Wass",
+		"year": 1931
+	},
+	{
+		"url": "https://youtu.be/xeKkrgwprWY",
+		"artist_first_name": "Ralph",
+		"artist_last_name": "Vaughan Williams",
+		"track_name": "Job",
+		"performer_first_name": "Adrian",
+		"performer_last_name": "Boult",
+		"year": 1930
+	},
+	{
+		"url": "https://youtu.be/h6PYDPspMG8",
+		"artist_first_name": "Ralph",
+		"artist_last_name": "Vaughan Williams",
+		"track_name": "The Lark Ascending",
+		"performer_first_name": "Hugh",
+		"performer_last_name": "Bean",
+		"year": 1914
 	}
 ]

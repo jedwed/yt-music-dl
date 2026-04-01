@@ -1,9 +1,13 @@
 #!/bin/bash
 
 music_list_file=$1
-echo "Downloading music from $music_list_file"
+output_dir=$2
 
-jq -c '.[]' "$music_list_file" | while read music_info; do
+echo "Downloading music from $music_list_file"
+music_info_list=$(jq -c '.[]' "$music_list_file")
+cd "$output_dir" || exit
+
+echo "$music_info_list" | while read -r music_info; do
 	url=$(echo "$music_info" | jq -r '.url')
 	artist_first_name=$(echo "$music_info" | jq -r '.artist_first_name')
 	artist_last_name=$(echo "$music_info" | jq -r '.artist_last_name')
