@@ -134,6 +134,24 @@
 		"year": 1881
 	},
 	{
+		"url": "https://youtu.be/NijYtozUHaw",
+		"artist_first_name": "Johannes",
+		"artist_last_name": "Brahms",
+		"track_name": "Clarinet Quintet",
+		"performer_first_name": "",
+		"performer_last_name": "Amadeus Quartet",
+		"year": 1891
+	},
+	{
+		"url": "https://youtu.be/1dAWECPfI20",
+		"artist_first_name": "Johannes",
+		"artist_last_name": "Brahms",
+		"track_name": "Trio for Clarinet, Cello and Piano",
+		"performer_first_name": "Josep",
+		"performer_last_name": "Colom",
+		"year": 1891
+	},
+	{
 		"url": "https://youtu.be/m6Fq5GhUwgA",
 		"artist_first_name": "Johannes",
 		"artist_last_name": "Brahms",
@@ -231,6 +249,24 @@
 		"performer_first_name": "Alfred",
 		"performer_last_name": "Cortot",
 		"year": 1839
+	},
+	{
+		"url": "https://youtu.be/CstF_XAzvig",
+		"artist_first_name": "Frédéric",
+		"artist_last_name": "Chopin",
+		"track_name": "Barcarolle",
+		"performer_first_name": "Alfred",
+		"performer_last_name": "Cortot",
+		"year": 1846
+	},
+	{
+		"url": "https://youtu.be/c__HHJyKKtk",
+		"artist_first_name": "Frédéric",
+		"artist_last_name": "Chopin",
+		"track_name": "Berceuse",
+		"performer_first_name": "Alfred",
+		"performer_last_name": "Cortot",
+		"year": 1844
 	},
 	{
 		"url": "https://youtu.be/wuL7UC2glJM",
@@ -336,6 +372,33 @@
 		"year": 1915
 	},
 	{
+		"url": "https://youtu.be/nbJ33aN63Fs",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "Cello Sonata",
+		"performer_first_name": "Maurice",
+		"performer_last_name": "Gendron",
+		"year": 1915
+	},
+	{
+		"url": "https://youtu.be/6p1HDpf48Tg",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "Violin Sonata",
+		"performer_first_name": "Shlomo",
+		"performer_last_name": "Mintz",
+		"year": 1917
+	},
+	{
+		"url": "https://youtu.be/_NN0n8-YCfs",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "Petite Suite",
+		"performer_first_name": "Anastasia",
+		"performer_last_name": "Gromoglasova",
+		"year": 1889
+	},
+	{
 		"url": "https://youtu.be/L9c31_Uuz5k",
 		"artist_first_name": "Claude",
 		"artist_last_name": "Debussy",
@@ -390,6 +453,15 @@
 		"year": 1907
 	},
 	{
+		"url": "https://youtu.be/ymo7bS4BiwA",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "Images oubliées",
+		"performer_first_name": "Jean-Efflam",
+		"performer_last_name": "Bavouzet",
+		"year": 1894
+	},
+	{
 		"url": "https://youtu.be/XVeUfk2O4QM",
 		"artist_first_name": "Claude",
 		"artist_last_name": "Debussy",
@@ -397,6 +469,15 @@
 		"performer_first_name": "Walter",
 		"performer_last_name": "Gieseking",
 		"year": 1901
+	},
+	{
+		"url": "https://youtu.be/5PjlQDiJRxY",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "2 Arabesques",
+		"performer_first_name": "Jean-Efflam",
+		"performer_last_name": "Bavouzet",
+		"year": 1891
 	},
 	{
 		"url": "https://youtu.be/3ffIhrESE3c",
@@ -408,13 +489,22 @@
 		"year": 1890
 	},
 	{
-		"url": "https://youtu.be/5PjlQDiJRxY",
+		"url": "https://youtu.be/8gdjF58iRxw",
 		"artist_first_name": "Claude",
 		"artist_last_name": "Debussy",
-		"track_name": "2 Arabesques",
-		"performer_first_name": "Jean-Efflam",
-		"performer_last_name": "Bavouzet",
-		"year": 1891
+		"track_name": "L'isle Joyeuse",
+		"performer_first_name": "Walter",
+		"performer_last_name": "Gieseking",
+		"year": 1904
+	},
+	{
+		"url": "https://youtu.be/_vDsWkllyq4",
+		"artist_first_name": "Claude",
+		"artist_last_name": "Debussy",
+		"track_name": "Ballade",
+		"performer_first_name": "Walter",
+		"performer_last_name": "Gieseking",
+		"year": 1890
 	},
 	{
 		"url": "https://youtu.be/TMhcxi-eoMY",
@@ -433,6 +523,24 @@
 		"performer_first_name": "Alicia de",
 		"performer_last_name": "Larrocha",
 		"year": 1915
+	},
+	{
+		"url": "https://youtu.be/c789oGvHh6Y",
+		"artist_first_name": "George",
+		"artist_last_name": "Gershwin",
+		"track_name": "Rhapsody in Blue",
+		"performer_first_name": "Leonard",
+		"performer_last_name": "Bernstein",
+		"year": 1924
+	},
+	{
+		"url": "https://youtu.be/QQ2myoP2wZI",
+		"artist_first_name": "Edvard",
+		"artist_last_name": "Grieg",
+		"track_name": "Piano Concerto",
+		"performer_first_name": "Sviatoslav",
+		"performer_last_name": "Richter",
+		"year": 1868
 	},
 	{
 		"url": "https://youtu.be/gHXvng9cFGY",
@@ -516,6 +624,33 @@
 		"year": 1984
 	},
 	{
+		"url": "https://youtu.be/I7lWwXk6TV8",
+		"artist_first_name": "Nikolai",
+		"artist_last_name": "Kapustin",
+		"track_name": "24 Preludes",
+		"performer_first_name": "Nikolai",
+		"performer_last_name": "Kapustin",
+		"year": 1988
+	},
+	{
+		"url": "https://youtu.be/39BBJFE4K-0",
+		"artist_first_name": "Nikolai",
+		"artist_last_name": "Kapustin",
+		"track_name": "10 Bagatelles",
+		"performer_first_name": "Nikolai",
+		"performer_last_name": "Kapustin",
+		"year": 1991
+	},
+	{
+		"url": "https://youtu.be/eYFEFXbNeQQ",
+		"artist_first_name": "Nikolai",
+		"artist_last_name": "Kapustin",
+		"track_name": "24 Preludes and Fugues",
+		"performer_first_name": "Nikolai",
+		"performer_last_name": "Kapustin",
+		"year": 1997
+	},
+	{
 		"url": "https://youtu.be/gFefmXsnzMc",
 		"artist_first_name": "Nikolai",
 		"artist_last_name": "Kapustin",
@@ -534,10 +669,64 @@
 		"year": 1989
 	},
 	{
+		"url": "https://youtu.be/r27U1Z5eQyY",
+		"artist_first_name": "Nikolai",
+		"artist_last_name": "Kapustin",
+		"track_name": "Piano Sonata no. 6",
+		"performer_first_name": "Nikolai",
+		"performer_last_name": "Kapustin",
+		"year": 1991
+	},
+	{
+		"url": "https://youtu.be/SLFLMxkAq0k",
+		"artist_first_name": "Nikolai",
+		"artist_last_name": "Kapustin",
+		"track_name": "Piano Sonata no. 8",
+		"performer_first_name": "Masahiro",
+		"performer_last_name": "Kawakami",
+		"year": 1995
+	},
+	{
+		"url": "https://youtu.be/Wcl7_UJWBH8",
+		"artist_first_name": "Nikolai",
+		"artist_last_name": "Kapustin",
+		"track_name": "Piano Sonata no. 9",
+		"performer_first_name": "Masahiro",
+		"performer_last_name": "Kawakami",
+		"year": 1995
+	},
+	{
+		"url": "https://youtu.be/gBvJIr3jmpE",
+		"artist_first_name": "Nikolai",
+		"artist_last_name": "Kapustin",
+		"track_name": "Piano Sonata no. 12",
+		"performer_first_name": "Nikolai",
+		"performer_last_name": "Kapustin",
+		"year": 2001
+	},
+	{
+		"url": "https://youtu.be/xRXo8UN-GSQ",
+		"artist_first_name": "Nikolai",
+		"artist_last_name": "Kapustin",
+		"track_name": "Piano Sonata no. 13",
+		"performer_first_name": "Masahiro",
+		"performer_last_name": "Kawakami",
+		"year": 2003
+	},
+	{
 		"url": "https://youtu.be/mcPuh-bIn3A",
 		"artist_first_name": "Nikolai",
 		"artist_last_name": "Kapustin",
 		"track_name": "Trio for Flute, Cello and Piano",
+		"performer_first_name": "Nikolai",
+		"performer_last_name": "Kapustin",
+		"year": 1998
+	},
+	{
+		"url": "https://youtu.be/u9233muyBiM",
+		"artist_first_name": "Nikolai",
+		"artist_last_name": "Kapustin",
+		"track_name": "Divertissement for 2 Flutes, Cello and Piano",
 		"performer_first_name": "Nikolai",
 		"performer_last_name": "Kapustin",
 		"year": 1998
@@ -695,6 +884,15 @@
 		"year": 1974
 	},
 	{
+		"url": "https://youtu.be/oEghV-AJ230",
+		"artist_first_name": "Olivier",
+		"artist_last_name": "Messiaen",
+		"track_name": "Turangalîla-Symphonie",
+		"performer_first_name": "Sylvain",
+		"performer_last_name": "Cambreling",
+		"year": 1948
+	},
+	{
 		"url": "https://youtu.be/SBFOwHLYj70",
 		"artist_first_name": "Olivier",
 		"artist_last_name": "Messiaen",
@@ -702,6 +900,24 @@
 		"performer_first_name": "Matthew",
 		"performer_last_name": "Schellhorn",
 		"year": 1941
+	},
+	{
+		"url": "https://youtu.be/ovMnmIoZh74",
+		"artist_first_name": "Olivier",
+		"artist_last_name": "Messiaen",
+		"track_name": "Vingt Regards sur l'Enfant-Jésus",
+		"performer_first_name": "Yvonne",
+		"performer_last_name": "Loroid-Messiaen",
+		"year": 1944
+	},
+	{
+		"url": "https://youtu.be/V7EssqcOTc8",
+		"artist_first_name": "Olivier",
+		"artist_last_name": "Messiaen",
+		"track_name": "8 Préludes",
+		"performer_first_name": "Yvonne",
+		"performer_last_name": "Loroid-Messiaen",
+		"year": 1929
 	},
 	{
 		"url": "https://youtu.be/C8u_jb49mbM",
@@ -758,6 +974,33 @@
 		"year": 1921
 	},
 	{
+		"url": "https://youtu.be/MjVbd61Mxvs",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Prokofiev",
+		"track_name": "Vision Fugitives",
+		"performer_first_name": "Maria",
+		"performer_last_name": "Yudina",
+		"year": 1917
+	},
+	{
+		"url": "https://youtu.be/h21KSLqj7HA",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Prokofiev",
+		"track_name": "Piano Sonata no. 7",
+		"performer_first_name": "Maurizio",
+		"performer_last_name": "Pollini",
+		"year": 1942
+	},
+	{
+		"url": "https://youtu.be/BzODV6moOE4",
+		"artist_first_name": "Sergei",
+		"artist_last_name": "Prokofiev",
+		"track_name": "Piano Sonata no. 8",
+		"performer_first_name": "Sviatoslav",
+		"performer_last_name": "Richter",
+		"year": 1944
+	},
+	{
 		"url": "https://youtu.be/KFTa73nKgmI",
 		"artist_first_name": "Jean",
 		"artist_last_name": "Sibelius",
@@ -810,6 +1053,33 @@
 		"performer_first_name": "David",
 		"performer_last_name": "Oistrakh",
 		"year": 1904
+	},
+	{
+		"url": "https://youtu.be/yjjwn5j8big",
+		"artist_first_name": "Igor",
+		"artist_last_name": "Stravinsky",
+		"track_name": "The Firebird",
+		"performer_first_name": "Antal",
+		"performer_last_name": "Dorati",
+		"year": 1910
+	},
+	{
+		"url": "https://youtu.be/rubci_2LQtI",
+		"artist_first_name": "Igor",
+		"artist_last_name": "Stravinsky",
+		"track_name": "Petrushka",
+		"performer_first_name": "Pierre",
+		"performer_last_name": "Monteux",
+		"year": 1911
+	},
+	{
+		"url": "https://youtu.be/rP42C-4zL3w",
+		"artist_first_name": "Igor",
+		"artist_last_name": "Stravinsky",
+		"track_name": "Rite of Spring",
+		"performer_first_name": "Leonard",
+		"performer_last_name": "Bernstein",
+		"year": 1913
 	},
 	{
 		"url": "https://youtu.be/zpo64avx57g",
@@ -1100,6 +1370,24 @@
 		"year": 1914
 	},
 	{
+		"url": "https://youtu.be/-z_Ee3E3C0Q",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Sonata for Violin and Cello",
+		"performer_first_name": "Jean-Jacques",
+		"performer_last_name": "Kantorow",
+		"year": 1922
+	},
+	{
+		"url": "https://youtu.be/ATT-1vmZZAk",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Frontispice",
+		"performer_first_name": "Aloys",
+		"performer_last_name": "Kontarsky",
+		"year": 1918
+	},
+	{
 		"url": "https://youtu.be/nQWY4aBIS58",
 		"artist_first_name": "Maurice",
 		"artist_last_name": "Ravel",
@@ -1145,6 +1433,15 @@
 		"year": 1911
 	},
 	{
+		"url": "https://youtu.be/Vb6KsiSEqyQ",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Menuet antique",
+		"performer_first_name": "Vlado",
+		"performer_last_name": "Perlemuter",
+		"year": 1895
+	},
+	{
 		"url": "https://youtu.be/zFJGW4FQkyQ",
 		"artist_first_name": "Maurice",
 		"artist_last_name": "Ravel",
@@ -1172,6 +1469,15 @@
 		"year": 1909
 	},
 	{
+		"url": "https://youtu.be/qMqU5gNaziM",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Prélude",
+		"performer_first_name": "Vlado",
+		"performer_last_name": "Perlemuter",
+		"year": 1913
+	},
+	{
 		"url": "https://youtu.be/5pyhBJzuixM",
 		"artist_first_name": "Erik",
 		"artist_last_name": "Satie",
@@ -1187,6 +1493,51 @@
 		"performer_first_name": "Jean-Yves",
 		"performer_last_name": "Thibaudet",
 		"year": 1919
+	},
+	{
+		"url": "https://youtu.be/HUHftc53Gxw",
+		"artist_first_name": "Robert",
+		"artist_last_name": "Schumann",
+		"track_name": "Piano Concerto",
+		"performer_first_name": "Sviatoslav",
+		"performer_last_name": "Richter",
+		"year": 1845
+	},
+	{
+		"url": "https://youtu.be/UQQxpJ7Pn1g",
+		"artist_first_name": "Robert",
+		"artist_last_name": "Schumann",
+		"track_name": "Piano Quintet",
+		"performer_first_name": "Martha",
+		"performer_last_name": "Argerich",
+		"year": 1842
+	},
+	{
+		"url": "https://youtu.be/GBEA-_XebAk",
+		"artist_first_name": "Robert",
+		"artist_last_name": "Schumann",
+		"track_name": "Toccata",
+		"performer_first_name": "Emil",
+		"performer_last_name": "Gilels",
+		"year": 1832
+	},
+	{
+		"url": "https://youtu.be/e1A_oEwmH0g",
+		"artist_first_name": "Robert",
+		"artist_last_name": "Schumann",
+		"track_name": "Kinderszenen",
+		"performer_first_name": "Vladimir",
+		"performer_last_name": "Horowitz",
+		"year": 1838
+	},
+	{
+		"url": "https://youtu.be/CEjhA3QVdJA",
+		"artist_first_name": "Robert",
+		"artist_last_name": "Schumann",
+		"track_name": "Fantasie",
+		"performer_first_name": "Sviatoslav",
+		"performer_last_name": "Richter",
+		"year": 1838
 	},
 	{
 		"url": "https://youtu.be/uHwrTj-EOLs",
@@ -1250,6 +1601,33 @@
 		"performer_first_name": "Vladimir",
 		"performer_last_name": "Sofronitsky",
 		"year": 1913
+	},
+	{
+		"url": "https://youtu.be/E38wgqsXsdk",
+		"artist_first_name": "Dmitri",
+		"artist_last_name": "Shostakovich",
+		"track_name": "Symphony no. 5",
+		"performer_first_name": "Kurt",
+		"performer_last_name": "Sanderling",
+		"year": 1937
+	},
+	{
+		"url": "https://youtu.be/BCTEx3w2_jU",
+		"artist_first_name": "Dmitri",
+		"artist_last_name": "Shostakovich",
+		"track_name": "Piano Concerto no. 2",
+		"performer_first_name": "Dmitri",
+		"performer_last_name": "Shostakovich",
+		"year": 1957
+	},
+	{
+		"url": "https://youtu.be/-0nKJoZY64A",
+		"artist_first_name": "Dmitri",
+		"artist_last_name": "Shostakovich",
+		"track_name": "String Quartet no. 8",
+		"performer_first_name": "",
+		"performer_last_name": "St. Lawrence String Quartet",
+		"year": 1960
 	},
 	{
 		"url": "https://youtu.be/czAVhmKmDS8",
