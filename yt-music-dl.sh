@@ -1,10 +1,23 @@
 #!/bin/bash
 
+if [ "$#" != 2 ]; then
+	echo "Usage: $0 [JSON_FILE] [DIRECTORY]"
+	exit 1
+fi
+
 music_list_file=$1
 output_dir=$2
 
 echo "Downloading music from $music_list_file"
 music_info_list=$(jq -c '.[]' "$music_list_file")
+
+duplicate_urls=$(jq 'group_by(.url) | map(select(length > 1))' "$music_list_file")
+if [[ $(echo "$duplicate_urls" | jq 'length') != 0 ]]; then
+	echo "Duplicate URL(s) detected. Please check the following objects below for duplicate URLs"
+	echo "$duplicate_urls"
+	exit 1
+fi
+
 cd "$output_dir" || exit
 
 echo "$music_info_list" | while read -r music_info; do
@@ -23,6 +36,7 @@ echo "$music_info_list" | while read -r music_info; do
 		continue
 	fi
 
+	echo "Downloading file ${file_name_ext}"
 	yt-dlp --cookies-from-browser firefox -t aac "$url" -o "${file_name}.%(ext)s"
 	echo "Downloaded file ${file_name_ext}"
 
