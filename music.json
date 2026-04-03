@@ -18,12 +18,12 @@
 		"year": 1936
 	},
 	{
-		"url": "https://youtu.be/3nzaftnHAZQ",
+		"url": "https://youtu.be/MdRD6gEa9CY",
 		"artist_first_name": "Samuel",
 		"artist_last_name": "Barber",
 		"track_name": "Violin Concerto",
-		"performer_first_name": "Gil",
-		"performer_last_name": "Shaham",
+		"performer_first_name": "Issac",
+		"performer_last_name": "Stern",
 		"year": 1939
 	},
 	{
@@ -758,6 +758,15 @@
 		"year": 1847
 	},
 	{
+		"url": "https://youtu.be/IeKMMDxrsBE",
+		"artist_first_name": "Franz",
+		"artist_last_name": "Liszt",
+		"track_name": "Piano Sonata in B Minor",
+		"performer_first_name": "Krystian",
+		"performer_last_name": "Zimerman",
+		"year": 1853
+	},
+	{
 		"url": "https://youtu.be/nRgwYrkRsPc",
 		"artist_first_name": "Gustav",
 		"artist_last_name": "Mahler",
@@ -918,6 +927,24 @@
 		"performer_first_name": "Yvonne",
 		"performer_last_name": "Loroid-Messiaen",
 		"year": 1929
+	},
+	{
+		"url": "https://youtu.be/W3hrXBvRass",
+		"artist_first_name": "Nikolai",
+		"artist_last_name": "Medtner",
+		"track_name": "Piano Concerto no. 2",
+		"performer_first_name": "Geoffrey",
+		"performer_last_name": "Tozer",
+		"year": 1927
+	},
+	{
+		"url": "https://youtu.be/A6wtcOX0UI0",
+		"artist_first_name": "Nikolai",
+		"artist_last_name": "Medtner",
+		"track_name": "Piano Concerto no. 3",
+		"performer_first_name": "Nikolai",
+		"performer_last_name": "Medtner",
+		"year": 1943
 	},
 	{
 		"url": "https://youtu.be/C8u_jb49mbM",
