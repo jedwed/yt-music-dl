@@ -45,6 +45,15 @@
 		"year": 1960
 	},
 	{
+		"url": "https://youtu.be/PjF3AsTCbyc",
+		"artist_first_name": "Samuel",
+		"artist_last_name": "Barber",
+		"track_name": "Capricorn Concerto",
+		"performer_first_name": "Howard",
+		"performer_last_name": "Hanson",
+		"year": 1944
+	},
+	{
 		"url": "https://youtu.be/9zePFJjl_6s",
 		"artist_first_name": "Ludwig van",
 		"artist_last_name": "Beethoven",
@@ -150,6 +159,33 @@
 		"performer_first_name": "Josep",
 		"performer_last_name": "Colom",
 		"year": 1891
+	},
+	{
+		"url": "https://youtu.be/OMwxMZaU_xU",
+		"artist_first_name": "Johannes",
+		"artist_last_name": "Brahms",
+		"track_name": "Violin Sonata no. 1",
+		"performer_first_name": "Josef",
+		"performer_last_name": "Suk",
+		"year": 1879
+	},
+	{
+		"url": "https://youtu.be/r14qV4Ss--8",
+		"artist_first_name": "Johannes",
+		"artist_last_name": "Brahms",
+		"track_name": "Violin Sonata no. 2",
+		"performer_first_name": "Josef",
+		"performer_last_name": "Suk",
+		"year": 1886
+	},
+	{
+		"url": "https://youtu.be/VKB7K9YFmdM",
+		"artist_first_name": "Johannes",
+		"artist_last_name": "Brahms",
+		"track_name": "Violin Sonata no. 3",
+		"performer_first_name": "Josef",
+		"performer_last_name": "Suk",
+		"year": 1888
 	},
 	{
 		"url": "https://youtu.be/m6Fq5GhUwgA",
@@ -507,12 +543,57 @@
 		"year": 1890
 	},
 	{
+		"url": "https://youtu.be/tCTy8cAkD9w",
+		"artist_first_name": "Antonín",
+		"artist_last_name": "Dvořák",
+		"track_name": "Symphony no. 7",
+		"performer_first_name": "Christoph von",
+		"performer_last_name": "Dohnányi",
+		"year": 1885
+	},
+	{
+		"url": "https://youtu.be/6O6Nme3fw5k",
+		"artist_first_name": "Antonín",
+		"artist_last_name": "Dvořák",
+		"track_name": "Symphony no. 8",
+		"performer_first_name": "Václav",
+		"performer_last_name": "Neumann",
+		"year": 1889
+	},
+	{
 		"url": "https://youtu.be/TMhcxi-eoMY",
 		"artist_first_name": "Antonín",
-		"artist_last_name": "Dvorák",
+		"artist_last_name": "Dvořák",
 		"track_name": "Symphony no. 9",
 		"performer_first_name": "Ferenc",
 		"performer_last_name": "Fricsay",
+		"year": 1893
+	},
+	{
+		"url": "https://youtu.be/XIBH_alyxDo",
+		"artist_first_name": "Antonín",
+		"artist_last_name": "Dvořák",
+		"track_name": "Cello Concerto",
+		"performer_first_name": "Pierre",
+		"performer_last_name": "Fournier",
+		"year": 1895
+	},
+	{
+		"url": "https://youtu.be/_qz6y-ME8zs",
+		"artist_first_name": "Antonín",
+		"artist_last_name": "Dvořák",
+		"track_name": "Piano Quintet no. 2",
+		"performer_first_name": "Andreas",
+		"performer_last_name": "Haefliger",
+		"year": 1887
+	},
+	{
+		"url": "https://youtu.be/_b_rwtDlUXA",
+		"artist_first_name": "Antonín",
+		"artist_last_name": "Dvořák",
+		"track_name": "String Quartet no. 12",
+		"performer_first_name": "",
+		"performer_last_name": "Emerson String Quartet",
 		"year": 1893
 	},
 	{
@@ -523,6 +604,42 @@
 		"performer_first_name": "Alicia de",
 		"performer_last_name": "Larrocha",
 		"year": 1915
+	},
+	{
+		"url": "https://youtu.be/YCp5XC2rsEM",
+		"artist_first_name": "César",
+		"artist_last_name": "Franck",
+		"track_name": "Violin Sonata",
+		"performer_first_name": "Kaja",
+		"performer_last_name": "Danczowska",
+		"year": 1886
+	},
+	{
+		"url": "https://youtu.be/G7obO7XyyQc",
+		"artist_first_name": "César",
+		"artist_last_name": "Franck",
+		"track_name": "Symphony in D Minor",
+		"performer_first_name": "Pierre",
+		"performer_last_name": "Monteux",
+		"year": 1888
+	},
+	{
+		"url": "https://youtu.be/vdGpqeaeSCc",
+		"artist_first_name": "César",
+		"artist_last_name": "Franck",
+		"track_name": "Variations symphoniques",
+		"performer_first_name": "Aldo",
+		"performer_last_name": "Ciccolini",
+		"year": 1885
+	},
+	{
+		"url": "https://youtu.be/JWIQYvefGR0",
+		"artist_first_name": "César",
+		"artist_last_name": "Franck",
+		"track_name": "Prélude, Choral et Fugue",
+		"performer_first_name": "Ivan",
+		"performer_last_name": "Moravec",
+		"year": 1884
 	},
 	{
 		"url": "https://youtu.be/c789oGvHh6Y",
@@ -929,12 +1046,12 @@
 		"year": 1929
 	},
 	{
-		"url": "https://youtu.be/W3hrXBvRass",
+		"url": "https://youtu.be/QHmQGsbqNds",
 		"artist_first_name": "Nikolai",
 		"artist_last_name": "Medtner",
 		"track_name": "Piano Concerto no. 2",
-		"performer_first_name": "Geoffrey",
-		"performer_last_name": "Tozer",
+		"performer_first_name": "Nikolai",
+		"performer_last_name": "Medtner",
 		"year": 1927
 	},
 	{
@@ -1478,6 +1595,15 @@
 		"year": 1901
 	},
 	{
+		"url": "https://youtu.be/iA-ObbVRX4w",
+		"artist_first_name": "Maurice",
+		"artist_last_name": "Ravel",
+		"track_name": "Pavane pour une infante défunte",
+		"performer_first_name": "Pierre",
+		"performer_last_name": "Monteux",
+		"year": 1899
+	},
+	{
 		"url": "https://youtu.be/Ps7246vDF2g",
 		"artist_first_name": "Maurice",
 		"artist_last_name": "Ravel",
@@ -1503,6 +1629,15 @@
 		"performer_first_name": "Vlado",
 		"performer_last_name": "Perlemuter",
 		"year": 1913
+	},
+	{
+		"url": "https://youtu.be/ApUuL-Fg0Wk",
+		"artist_first_name": "Nikolai",
+		"artist_last_name": "Rimsky-Korsakov",
+		"track_name": "Scheherazade",
+		"performer_first_name": "Leopold",
+		"performer_last_name": "Stokowski",
+		"year": 1888
 	},
 	{
 		"url": "https://youtu.be/5pyhBJzuixM",
@@ -1664,6 +1799,24 @@
 		"performer_first_name": "Evgeny",
 		"performer_last_name": "Mravinsky",
 		"year": 1893
+	},
+	{
+		"url": "https://youtu.be/esK8GgfbRDQ",
+		"artist_first_name": "Pyotr Ilyich",
+		"artist_last_name": "Tchaikovsky",
+		"track_name": "Piano Concerto no. 1",
+		"performer_first_name": "Martha",
+		"performer_last_name": "Argerich",
+		"year": 1875
+	},
+	{
+		"url": "https://youtu.be/qhSxS6UnXBo",
+		"artist_first_name": "Pyotr Ilyich",
+		"artist_last_name": "Tchaikovsky",
+		"track_name": "Violin Concerto",
+		"performer_first_name": "Jascha",
+		"performer_last_name": "Heifetz",
+		"year": 1878
 	},
 	{
 		"url": "https://youtu.be/76gAxsT4_5I",
