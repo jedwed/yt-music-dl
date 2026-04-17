@@ -13,9 +13,13 @@ music_info_list=$(jq -c '.[]' "$music_list_file")
 
 duplicate_urls=$(jq 'group_by(.url) | map(select(length > 1))' "$music_list_file")
 if [[ $(echo "$duplicate_urls" | jq 'length') != 0 ]]; then
-	echo "Duplicate URL(s) detected. Please check the following objects below for duplicate URLs"
+	echo "Duplicate URL(s) detected. Please check the following objects below"
 	echo "$duplicate_urls"
-	exit 1
+	read -r -p "Would you like to proceed (y/n)? " response
+	if [[ "$response" != "y" ]]; then
+		echo "Confirmation not received. Exiting program"
+		exit 1
+	fi
 fi
 
 cd "$output_dir" || exit
@@ -28,6 +32,8 @@ echo "$music_info_list" | while read -r music_info; do
 	performer_first_name=$(echo "$music_info" | jq -r '.performer_first_name')
 	performer_last_name=$(echo "$music_info" | jq -r '.performer_last_name')
 	year=$(echo "$music_info" | jq -r '.year')
+	to=$(echo "$music_info" | jq -r '.to')
+	from=$(echo "$music_info" | jq -r '.from')
 
 	file_name="${artist_last_name} - ${track_name} (${performer_last_name})"
 	file_name_ext="${file_name}.m4a"
@@ -39,6 +45,21 @@ echo "$music_info_list" | while read -r music_info; do
 	echo "Downloading file ${file_name_ext}"
 	yt-dlp --cookies-from-browser firefox -t aac "$url" -o "${file_name}.%(ext)s"
 	echo "Downloaded file ${file_name_ext}"
+
+	temp_file_name_ext="temp_${file_name_ext}"
+	if [ "$to" != "null" ]; then
+		echo "Trimming audio after $to"
+		ffmpeg -nostdin -i "${file_name_ext}" -to "$to" -codec copy "${temp_file_name_ext}"
+		rm "${file_name_ext}"
+		mv "${temp_file_name_ext}" "${file_name_ext}"
+	fi
+
+	if [ "$from" != "null" ]; then
+		echo "Trimming audio before $from"
+		ffmpeg -nostdin -i "${file_name_ext}" -ss "$from" -codec copy "${temp_file_name_ext}"
+		rm "${file_name_ext}"
+		mv "${temp_file_name_ext}" "${file_name_ext}"
+	fi
 
 	exiftool \
 		-title="$track_name" \
