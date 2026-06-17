@@ -43,7 +43,7 @@ echo "$music_info_list" | while read -r music_info; do
 	fi
 
 	echo "Downloading file ${file_name_ext}"
-	yt-dlp --cookies-from-browser firefox -t aac "$url" -o "${file_name}.%(ext)s"
+	yt-dlp -t aac "$url" -o "${file_name}.%(ext)s"
 	echo "Downloaded file ${file_name_ext}"
 
 	temp_file_name_ext="temp_${file_name_ext}"

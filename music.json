@@ -640,6 +640,33 @@
 		"year": 1890
 	},
 	{
+		"url": "https://youtu.be/gNj94i4RYhk",
+		"artist_first_name": "Qigang",
+		"artist_last_name": "Chen",
+		"track_name": "Er Huang",
+		"performer_first_name": "Chun-Chieh",
+		"performer_last_name": "Yen",
+		"year": 2009
+	},
+	{
+		"url": "https://youtu.be/wcIByhmCi1I",
+		"artist_first_name": "Qigang",
+		"artist_last_name": "Chen",
+		"track_name": "Enchantements oubliés",
+		"performer_first_name": "Shao-Chia",
+		"performer_last_name": "Lü",
+		"year": 2004
+	},
+	{
+		"url": "https://youtu.be/1Rj3tPJsYSc",
+		"artist_first_name": "Qigang",
+		"artist_last_name": "Chen",
+		"track_name": "La joie de la souffrance",
+		"performer_first_name": "Maxim",
+		"performer_last_name": "Vengerov",
+		"year": 2017
+	},
+	{
 		"url": "https://youtu.be/_F5FmHcgre0",
 		"artist_first_name": "Frédéric",
 		"artist_last_name": "Chopin",
@@ -695,12 +722,30 @@
 		"year": 1844
 	},
 	{
+		"url": "https://youtu.be/uYB8b1sqXi0",
+		"artist_first_name": "Frédéric",
+		"artist_last_name": "Chopin",
+		"track_name": "Piano Sonata no. 3",
+		"performer_first_name": "William",
+		"performer_last_name": "Kapell",
+		"year": 1844
+	},
+	{
 		"url": "https://youtu.be/3e22O1PUJyw",
 		"artist_first_name": "Frédéric",
 		"artist_last_name": "Chopin",
 		"track_name": "Preludes",
 		"performer_first_name": "Alfred",
 		"performer_last_name": "Cortot",
+		"year": 1839
+	},
+	{
+		"url": "https://youtu.be/LUlrlysEKQk",
+		"artist_first_name": "Frédéric",
+		"artist_last_name": "Chopin",
+		"track_name": "Preludes",
+		"performer_first_name": "Ivan",
+		"performer_last_name": "Moravec",
 		"year": 1839
 	},
 	{
@@ -761,6 +806,14 @@
 		"track_name": "4 Ballades",
 		"performer_first_name": "Alfred",
 		"performer_last_name": "Cortot"
+	},
+	{
+		"url": "https://youtu.be/9XD0SZnEmjg",
+		"artist_first_name": "Frédéric",
+		"artist_last_name": "Chopin",
+		"track_name": "4 Ballades",
+		"performer_first_name": "Ivan",
+		"performer_last_name": "Moravec"
 	},
 	{
 		"url": "https://youtu.be/NnWJLhV9_CY",
@@ -942,13 +995,15 @@
 		"year": 1905
 	},
 	{
-		"url": "https://youtu.be/DELBfBnT83I",
+		"url": "https://youtu.be/svn8cZM6Ygk",
 		"artist_first_name": "Claude",
 		"artist_last_name": "Debussy",
 		"track_name": "Suite bergamasque",
-		"performer_first_name": "Ivan",
-		"performer_last_name": "Moravec",
-		"year": 1905
+		"performer_first_name": "Monique",
+		"performer_last_name": "Haas",
+		"year": 1905,
+		"from": "38:08",
+		"to": "56:38"
 	},
 	{
 		"url": "https://youtu.be/MWkxPtFS10I",
@@ -1771,33 +1826,6 @@
 		"performer_first_name": "Fritz",
 		"performer_last_name": "Reiner",
 		"year": 1874
-	},
-	{
-		"url": "https://youtu.be/gNj94i4RYhk",
-		"artist_first_name": "Qigang",
-		"artist_last_name": "Chen",
-		"track_name": "Er Huang",
-		"performer_first_name": "Chun-Chieh",
-		"performer_last_name": "Yen",
-		"year": 2009
-	},
-	{
-		"url": "https://youtu.be/wcIByhmCi1I",
-		"artist_first_name": "Qigang",
-		"artist_last_name": "Chen",
-		"track_name": "Enchantements oubliés",
-		"performer_first_name": "Shao-Chia",
-		"performer_last_name": "Lü",
-		"year": 2004
-	},
-	{
-		"url": "https://youtu.be/1Rj3tPJsYSc",
-		"artist_first_name": "Qigang",
-		"artist_last_name": "Chen",
-		"track_name": "La joie de la souffrance",
-		"performer_first_name": "Maxim",
-		"performer_last_name": "Vengerov",
-		"year": 2017
 	},
 	{
 		"url": "https://youtu.be/V87wGyfUQiQ",
